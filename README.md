@@ -47,6 +47,25 @@ Netflix Movies and TV Shows dataset containing:
 - Word2Vec achieved better semantic clustering than TF-IDF
 - Built a recommendation system based on movie similarity
 
+
+
 ---
 
-## 🎯 Example Recommendation
+## 🛠️ Tech Stack
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- NLTK
+- Gensim
+- Matplotlib / Seaborn
+
+---
+
+## 📌 Future Improvements
+- Use Deep Learning (BERT embeddings)
+- Deploy as a web app
+- Add user-based recommendations
+
+---
+
