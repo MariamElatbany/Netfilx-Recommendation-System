@@ -9,6 +9,13 @@ This app allows users to:
 - Search for a movie
 - Get similar movie recommendations
 - Explore Netflix content clusters
+## 🎬 App Preview
+
+Here is a preview of the Netflix Recommendation App:
+
+<img width="1913" height="907" alt="570997808-ff32249c-28de-4002-9f4e-2d4ca5b532b5" src="https://github.com/user-attachments/assets/ee9cf9c0-e37a-4abe-a9af-65301f21d8fc" />
+
+---
 ## 📖 Overview
 This project analyzes and clusters Netflix movies and TV shows using Natural Language Processing (NLP) techniques.
 
