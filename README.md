@@ -1,6 +1,14 @@
 # Netfilx-Recommendation-System
 Machine Learning project for analyzing and clustering Netflix movies and TV shows using NLP techniques (TF-IDF &amp; Word2Vec) and building a content-based recommendation system.
+## 🚀 Live Demo
+You can try the application here:
 
+👉 https://netflix-recommender-system29.streamlit.app/
+
+This app allows users to:
+- Search for a movie
+- Get similar movie recommendations
+- Explore Netflix content clusters
 ## 📖 Overview
 This project analyzes and clusters Netflix movies and TV shows using Natural Language Processing (NLP) techniques.
 
@@ -68,4 +76,5 @@ Netflix Movies and TV Shows dataset containing:
 - Add user-based recommendations
 
 ---
+🚀 Live Demo: https://netflix-recommender-system29.streamlit.app/
 
