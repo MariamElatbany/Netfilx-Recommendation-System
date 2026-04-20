@@ -76,5 +76,13 @@ Netflix Movies and TV Shows dataset containing:
 - Add user-based recommendations
 
 ---
-🚀 Live Demo: https://netflix-recommender-system29.streamlit.app/
+## 👥 Team Project
+This project was developed collaboratively as part of a team effort.
+
+### 👩‍💻 Team Members
+- Mariam Magdy
+- Heba Omran - https://github.com/hebaomran29
+- Manal Alaaeldin - https://github.com/manalelgamil123-star
+- Nehal Hammam - https://github.com/Nehal12-hammam
+
 
